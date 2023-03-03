@@ -14,3 +14,4 @@ The project should be running on ```http://127.0.0.1:5173/```
 - Fix the status section.
 
 
+This project were made during a masterclass by Rocketseat CTO Diego Fernandes.
